@@ -1,6 +1,6 @@
 spring:
  application:
-   name: cloud-config-service-dev-test
+   name: cloud-config-service-dev
   
    
 
